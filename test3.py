@@ -18,7 +18,7 @@ from math import *
 
 number = -4
 
-# nrxe root (mrxe rut)
+# nrxe root (abs)
 print(abs(number))
 #tuan u hez (pow)
 print(pow(4,3))
